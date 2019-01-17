@@ -13,13 +13,18 @@ so
 i 
 jsut 
 ant tpo 
-
+{
+// comment one
+}
+//comment two
 tell
 what 
+{
 i have to
 do
 if
 their
+}
 is nothing
 sone
 gona
@@ -27,4 +32,12 @@ way
 from
 me
 sohand
+// comment three
+
+//comment four
+
+//comment five
+
+comment six
+
 
